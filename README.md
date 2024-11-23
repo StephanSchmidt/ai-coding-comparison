@@ -16,8 +16,9 @@ capabilities.
 
 ## Example 
 
-![AI Example](https://github.com/StephanSchmidt/ai-coding-comparison/blob/main/recordings/AIExample.gif?raw=true)
+A short example of what an AI IDE (in this case [Cursor](https://www.cursor.com/)) can do:
 
+![AI Example](https://github.com/StephanSchmidt/ai-coding-comparison/blob/main/recordings/AIExample.gif?raw=true)
 
 ## Quick Start
 
@@ -25,6 +26,9 @@ capabilities.
 - Run `make` to run the application
 
 ## Application
+
+![App Example](https://github.com/StephanSchmidt/ai-coding-comparison/blob/main/recordings/AppExample.png?raw=true)
+
 
 The application is a todo list application.
 
@@ -47,4 +51,20 @@ The Go backend is in the `internal/todo` folder and contains the following:
 The database is SQLite with [GORM](https://gorm.io/) as the database access library.
 
 The *_module.go files are the entry points for each module.
+
+## AI Test Tasks
+
+**Extend functionality**
+
+- Edit Todo
+- Remove Todo
+- Add Owner to Todo
+
+**Refactor functionality**
+
+**Find Bugs**
+
+**Explain Code**
+
+**Optimize Code**
 
