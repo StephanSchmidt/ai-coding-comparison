@@ -23,7 +23,7 @@ capabilities.
 
 The application is a todo list application.
 
-The application is a Go application with a simple REST API and a simple
+It is written in Go with a simple REST API and a simple
 frontend in JavaScript. 
 
 The frontend is in the `internal/js` folder and is a simple single page
@@ -35,8 +35,9 @@ The frontend uses [Alpine.js](https://alpinejs.dev/) as the JavaScript framework
 The Go backend is in the `internal/todo` folder and contains the following:
 
 - `db`: The database models and the database access functions. 
-- `usecase`: The use cases of the application.
-- `web`: The HTTP handlers of the application.
+- `usecase`: The use cases of the module.
+- `web`: The HTTP handlers of the module.
+- `domain`: The domain of the module.
 
 The database is SQLite with [GORM](https://gorm.io/) as the database access library.
 
