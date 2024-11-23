@@ -54,17 +54,17 @@ The *_module.go files are the entry points for each module.
 
 ## AI Test Tasks
 
-**Extend functionality**
+**1. Extend functionality**
 
-- Edit Todo
-- Remove Todo
-- Add Owner to Todo
+- 1.1 Edit Todo
+- 1.2 Remove Todo
+- 1.3 Add Owner to Todo
 
-**Refactor functionality**
+**2. Refactor functionality**
 
-**Find Bugs**
+**3. Find Bugs**
 
-**Explain Code**
+**4. Explain Code**
 
-**Optimize Code**
+**5. Optimize Code**
 
