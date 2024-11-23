@@ -1,9 +1,14 @@
 # AI Coding Comparison
 
-The idea is to have a very simple app and codebase that everyone can 
+How can we compare AI IDEs and their capabilities?
+
+One way is to have a very simple application and compare how easy it is to
+extend the application with new features.
+
+- The idea is to have a very simple app and codebase that everyone can 
 understand.
 
-Then have a list of common tasks on how to change and extend the codebase
+- Then have a list of common tasks on how to change and extend the codebase
 with new features.
 
 Record working on the common tasks with different AI IDEs and compare their
