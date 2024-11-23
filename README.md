@@ -23,7 +23,7 @@ capabilities.
 
 The application is a todo list application.
 
-It is written in Go with a simple REST API and a simple
+It is written in Go application with a simple REST API and a simple
 frontend in JavaScript. 
 
 The frontend is in the `internal/js` folder and is a simple single page
