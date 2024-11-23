@@ -33,7 +33,8 @@ A short example of what an AI IDE (in this case [Cursor](https://www.cursor.com/
 The application is a todo list application.
 
 It is written in Go application with a simple REST API and a simple
-frontend in JavaScript. 
+frontend in JavaScript. I have chosen Go because it is easy to understand, and
+I have chosen JavaScript because everyone knows it.
 
 The frontend is in the `internal/js` folder and is a simple single page
 application that allows you to add todos to the todo list. The JavaScript
