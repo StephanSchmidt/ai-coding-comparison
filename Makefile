@@ -2,3 +2,6 @@
 run: 
 	go build -o ./bin/todo ./cmd/todo
 	./bin/todo
+
+test:
+	go test ./...
