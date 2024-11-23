@@ -14,6 +14,11 @@ with new features.
 - Record working on the common tasks with different AI IDEs and compare their
 capabilities.
 
+## Example 
+
+![AI Example](https://github.com/StephanSchmidt/ai-coding-comparison/blob/main/recordings/AIExample.gif?raw=true)
+
+
 ## Quick Start
 
 - Install Go https://go.dev/doc/install
